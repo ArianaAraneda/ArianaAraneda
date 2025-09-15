@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ArianaAraneda/ArianaAraneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hola, soy Ariana 👋  
 
 ## 🛠️ Tecnologías  
@@ -15,4 +10,3 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)  
 
--->
